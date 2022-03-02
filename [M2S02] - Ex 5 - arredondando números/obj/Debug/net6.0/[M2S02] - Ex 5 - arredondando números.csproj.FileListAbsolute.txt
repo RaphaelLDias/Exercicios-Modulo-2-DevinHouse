@@ -1,0 +1,15 @@
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.csproj.AssemblyReference.cache
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.AssemblyInfoInputs.cache
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.AssemblyInfo.cs
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\bin\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.exe
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\bin\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.deps.json
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\bin\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.runtimeconfig.json
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\bin\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.dll
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\bin\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.pdb
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.dll
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\refint\[M2S02] - Ex 5 - arredondando números.dll
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.pdb
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\[M2S02] - Ex 5 - arredondando números.genruntimeconfig.cache
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 5 - arredondando números\obj\Debug\net6.0\ref\[M2S02] - Ex 5 - arredondando números.dll
