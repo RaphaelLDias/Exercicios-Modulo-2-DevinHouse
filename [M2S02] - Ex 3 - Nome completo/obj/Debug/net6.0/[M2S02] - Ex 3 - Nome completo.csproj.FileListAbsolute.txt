@@ -1,0 +1,15 @@
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\bin\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.exe
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\bin\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.deps.json
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\bin\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.runtimeconfig.json
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\bin\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.dll
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\bin\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.pdb
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.csproj.AssemblyReference.cache
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.AssemblyInfoInputs.cache
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.AssemblyInfo.cs
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.dll
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\refint\[M2S02] - Ex 3 - Nome completo.dll
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.pdb
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\[M2S02] - Ex 3 - Nome completo.genruntimeconfig.cache
+D:\Documentos\SENAI-DevinHouse\CURSO\Exercícios Módulo 2\[M2S02] - Ex 3 - Nome completo\obj\Debug\net6.0\ref\[M2S02] - Ex 3 - Nome completo.dll
