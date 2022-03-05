@@ -4,13 +4,14 @@ namespace ArredondandoNumeros
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            float numero;
             Console.WriteLine("Digite um número com duas casas após a virgula:");
-            var numero = Console.ReadLine();
-            var converteNumero = float.Parse(numero);
+            numero = float.Parse(Console.ReadLine());
+            int convertido = (int)Math.Round(numero);
             
-            Console.WriteLine($"O número arredondado é {numero}.");
+            Console.WriteLine("O número arredondado é {0}.", convertido);
         }
     }
 }
